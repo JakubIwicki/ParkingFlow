@@ -86,7 +86,10 @@ npm install
 npm run dev
 ```
 Backend works on: https://localhost:5020
+
 Frontend works on: https://localhost:52759
+
+RavenDB works on: http://localhost:8080
 
 ## API Integration
 
